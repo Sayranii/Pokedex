@@ -8,4 +8,4 @@
 
 <img src="https://github.com/Sayranii/Pokedex/blob/main/screenshot-2021-12-31_20.55.53.671.png" width=50% height=50%>
 
-<img src="https://github.com/Sayranii/Pokedex/blob/main/screenshot-2021-12-31_20.56.18.552.png" >
+<img src="https://github.com/Sayranii/Pokedex/blob/main/screenshot-2021-12-31_20.56.00.911.png" >
